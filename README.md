@@ -9,3 +9,4 @@
 [Exercise 1-5: Fahrenheit to Ceclius Converter Backwards Using For Loop](https://github.com/beef-erikson/ANSICProgrammingLanguage/blob/master/Chapter1/Exercise1-5/Exercise1-5.c)<br />
 [Exercise 1-6: Copy Input to Output](https://github.com/beef-erikson/ANSICProgrammingLanguage/blob/master/Chapter1/Exercise1-6/Exercise1-6.c)<br />
 [Exercise 1-7: Print Value of EOF](https://github.com/beef-erikson/ANSICProgrammingLanguage/blob/master/Chapter1/Exercise1-7/Exercise1-7.c)<br />
+[Exercise 1-8: Counts Blanks, Newlines, and Tabs From Input](https://github.com/beef-erikson/ANSICProgrammingLanguage/blob/master/Chapter1/Exercise1-8/Exercise1-8.c)<br />
