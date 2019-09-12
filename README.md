@@ -12,3 +12,4 @@
 [Exercise 1-8: Counts Blanks, Newlines, and Tabs From Input](https://github.com/beef-erikson/ANSICProgrammingLanguage/blob/master/Chapter1/Exercise1-8/Exercise1-8.c)<br />
 [Exercise 1-9: Outputs One Whitespace Regardless How Many From Input](https://github.com/beef-erikson/ANSICProgrammingLanguage/blob/master/Chapter1/Exercise1-9/Exercise1-9.c)<br />
 [Exercise 1-10: Replaces Tab, Backspace, and Backslash With Their Escape Characters](https://github.com/beef-erikson/ANSICProgrammingLanguage/blob/master/Chapter1/Exercise1-10/Exercise1-10.c)<br />
+[Exercise 1-11: Count Lines, Words, and Characters From Input](https://github.com/beef-erikson/ANSICProgrammingLanguage/blob/master/Chapter1/Exercise1-11/Exercise1-11.c)<br />
