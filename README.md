@@ -6,3 +6,4 @@
 [Exercise 1-2 - Hello World Part 2](https://github.com/beef-erikson/ANSICProgrammingLanguage/blob/master/Chapter1/Exercise1-2/Exercise1-2.c)<br />
 [Exercise 1-3 - Fahrenheit to Celcius Converter](https://github.com/beef-erikson/ANSICProgrammingLanguage/blob/master/Chapter1/Exercise1-3/Exercize1-3.c)<br />
 [Exercise 1-4 - Celsius to Fahrenheit Converter](https://github.com/beef-erikson/ANSICProgrammingLanguage/blob/master/Chapter1/Exercise1-4/Exercise1-4.c)<br />
+[Exercise 1-5 - Fahrenheit to Ceclius Converter Backwards Using For Loop](https://github.com/beef-erikson/ANSICProgrammingLanguage/blob/master/Chapter1/Exercise1-5/Exercise1-5.c)<br />
