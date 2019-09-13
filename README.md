@@ -16,3 +16,4 @@
 [Exercise 1-12: Every Word From Input Gets Own Newline On Output](https://github.com/beef-erikson/ANSICProgrammingLanguage/blob/master/Chapter1/Exercise1-12/Exercise1-12.c)<br />
 [Exercise 1-13: Histogram of Length of Words From Input](https://github.com/beef-erikson/ANSICProgrammingLanguage/blob/master/Chapter1/Exercise1-13/Exercise1-13.c)<br />
 [Exercise 1-14: Histogram of Various Different Characters From Input](https://github.com/beef-erikson/ANSICProgrammingLanguage/blob/master/Chapter1/Exercise1-14/Exercise1-14.c)<br />
+[Exercise 1-15: Made Functions for Fahrenheit/Celsius Conversions](https://github.com/beef-erikson/ANSICProgrammingLanguage/blob/master/Chapter1/Exercise1-15/Exercise1-15.c)<br />
