@@ -19,4 +19,4 @@ add_executable(ANSICProgrammingLanguage
         Chapter1/Exercise1-8/Exercise1-8.c
         Chapter1/Exercise1-9/Exercise1-9.c
         LICENSE
-        README.md Chapter1/Exercise1-15/Exercise1-15.c)
+        README.md Chapter1/Exercise1-15/Exercise1-15.c Chapter1/Exercise1-16/Exercise1-16.c)
