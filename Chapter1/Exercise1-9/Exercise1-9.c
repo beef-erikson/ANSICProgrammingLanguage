@@ -3,11 +3,13 @@
  *
  *  Created on: Sep 12, 2019
  *      Author: beef
- */
+ *
+ * Commented out for build sake, just uncomment to make it work
+
 
 #include <stdio.h>
 
-/* Copies input to output, replacing each string with one or more blanks with one blank */
+// Copies input to output, replacing each string with one or more blanks with one blank
 
 int main() {
 	int c;
@@ -23,3 +25,4 @@ int main() {
 	}
 	return 0;
 }
+*/

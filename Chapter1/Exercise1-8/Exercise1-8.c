@@ -3,11 +3,13 @@
  *
  *  Created on: Sep 12, 2019
  *      Author: beef
- */
+ *
+ * Commented out for build sake, just uncomment to make it work
+
 
 #include <stdio.h>
 
-/* Counts blanks, tabs, and newlines from input */
+// Counts blanks, tabs, and newlines from input
 
 int c;
 int blank, tab, newline;
@@ -27,3 +29,4 @@ int main() {
 
 	return 0;
 }
+*/

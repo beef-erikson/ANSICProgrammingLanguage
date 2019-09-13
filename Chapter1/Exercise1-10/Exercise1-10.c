@@ -3,11 +3,13 @@
  *
  *  Created on: Sep 12, 2019
  *      Author: beef
- */
+ *
+ * Commented out for build sake, just uncomment to make it work
+
 
 #include <stdio.h>
 
-/* Replaces tab, backspace and / with the escape characters instead */
+// Replaces tab, backspace and / with the escape characters instead
 
 int main() {
 	int c;
@@ -34,3 +36,4 @@ int main() {
 
 	return 0;
 }
+*/

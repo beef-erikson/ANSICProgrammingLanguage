@@ -3,11 +3,13 @@
  *
  *  Created on: Sep 13, 2019
  *      Author: beef
- */
+ *
+ * Commented out for build sake, just uncomment to make it work
+
 
 #include <stdio.h>
 
-/* Histogram of different characters in input */
+// Histogram of different characters in input
 
 int main() {
 
@@ -52,3 +54,4 @@ int main() {
 
 	return 0;
 }
+*/

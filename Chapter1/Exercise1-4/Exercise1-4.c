@@ -3,12 +3,14 @@
  *
  *  Created on: Sep 12, 2019
  *      Author: beef
- */
+ *
+ *  Commented out for build sake, just uncomment to make it work
+
 
 #include <stdio.h>
 
-/* Prints Celsius-Fahrenheit table
- * for fahr = 0, 20 ... 300 */
+// Prints Celsius-Fahrenheit table
+// for fahr = 0, 20 ... 300
 
 int main() {
 	float fahr, celsius;
@@ -30,3 +32,4 @@ int main() {
 	}
 	return 0;
 }
+*/

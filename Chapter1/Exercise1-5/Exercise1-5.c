@@ -3,7 +3,9 @@
  *
  *  Created on: Sep 12, 2019
  *      Author: beef
- */
+ *
+ *  Commented out for build sake, just uncomment to make it work
+
 
 #include <stdio.h>
 
@@ -11,7 +13,7 @@
 #define UPPER  300
 #define STEP   20
 
-/* Print Fahrenheit to Celsius table in reverse order */
+// Print Fahrenheit to Celsius table in reverse order
 
 int main() {
 	int fahr;
@@ -22,3 +24,4 @@ int main() {
 
 	return 0;
 }
+*/

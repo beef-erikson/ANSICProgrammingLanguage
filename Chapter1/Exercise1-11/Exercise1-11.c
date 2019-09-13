@@ -3,14 +3,16 @@
  *
  *  Created on: Sep 12, 2019
  *      Author: beef
- */
+ *
+ * Commented out for build sake, just uncomment to make it work
+
 
 #include <stdio.h>
 
 #define IN 	1 	// Inside a word
 #define OUT 0	// Outside a word
 
-/* Count lines, words, and characters in input */
+// Count lines, words, and characters in input
 
 int main() {
 	int c, newline, words, characters, state;
@@ -33,3 +35,4 @@ int main() {
 
 	return 0;
 }
+*/
