@@ -16,6 +16,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/ANSICProgrammingLanguage.dir/Chapter1/Exercise1-15/Exercise1-15.c.o"
   "CMakeFiles/ANSICProgrammingLanguage.dir/Chapter1/Exercise1-16/Exercise1-16.c.o"
   "CMakeFiles/ANSICProgrammingLanguage.dir/Chapter1/Exercise1-17/Exercise1-17.c.o"
+  "CMakeFiles/ANSICProgrammingLanguage.dir/Chapter1/Exercise1-18/Exercise1-19.c.o"
   "ANSICProgrammingLanguage.pdb"
   "ANSICProgrammingLanguage"
 )
