@@ -339,6 +339,33 @@ Chapter1/Exercise1-16/Exercise1-16.c.s:
 	$(MAKE) -f CMakeFiles/ANSICProgrammingLanguage.dir/build.make CMakeFiles/ANSICProgrammingLanguage.dir/Chapter1/Exercise1-16/Exercise1-16.c.s
 .PHONY : Chapter1/Exercise1-16/Exercise1-16.c.s
 
+Chapter1/Exercise1-17/Exercise1-17.o: Chapter1/Exercise1-17/Exercise1-17.c.o
+
+.PHONY : Chapter1/Exercise1-17/Exercise1-17.o
+
+# target to build an object file
+Chapter1/Exercise1-17/Exercise1-17.c.o:
+	$(MAKE) -f CMakeFiles/ANSICProgrammingLanguage.dir/build.make CMakeFiles/ANSICProgrammingLanguage.dir/Chapter1/Exercise1-17/Exercise1-17.c.o
+.PHONY : Chapter1/Exercise1-17/Exercise1-17.c.o
+
+Chapter1/Exercise1-17/Exercise1-17.i: Chapter1/Exercise1-17/Exercise1-17.c.i
+
+.PHONY : Chapter1/Exercise1-17/Exercise1-17.i
+
+# target to preprocess a source file
+Chapter1/Exercise1-17/Exercise1-17.c.i:
+	$(MAKE) -f CMakeFiles/ANSICProgrammingLanguage.dir/build.make CMakeFiles/ANSICProgrammingLanguage.dir/Chapter1/Exercise1-17/Exercise1-17.c.i
+.PHONY : Chapter1/Exercise1-17/Exercise1-17.c.i
+
+Chapter1/Exercise1-17/Exercise1-17.s: Chapter1/Exercise1-17/Exercise1-17.c.s
+
+.PHONY : Chapter1/Exercise1-17/Exercise1-17.s
+
+# target to generate assembly for a file
+Chapter1/Exercise1-17/Exercise1-17.c.s:
+	$(MAKE) -f CMakeFiles/ANSICProgrammingLanguage.dir/build.make CMakeFiles/ANSICProgrammingLanguage.dir/Chapter1/Exercise1-17/Exercise1-17.c.s
+.PHONY : Chapter1/Exercise1-17/Exercise1-17.c.s
+
 Chapter1/Exercise1-2/Exercise1-2.o: Chapter1/Exercise1-2/Exercise1-2.c.o
 
 .PHONY : Chapter1/Exercise1-2/Exercise1-2.o
@@ -588,6 +615,9 @@ help:
 	@echo "... Chapter1/Exercise1-16/Exercise1-16.o"
 	@echo "... Chapter1/Exercise1-16/Exercise1-16.i"
 	@echo "... Chapter1/Exercise1-16/Exercise1-16.s"
+	@echo "... Chapter1/Exercise1-17/Exercise1-17.o"
+	@echo "... Chapter1/Exercise1-17/Exercise1-17.i"
+	@echo "... Chapter1/Exercise1-17/Exercise1-17.s"
 	@echo "... Chapter1/Exercise1-2/Exercise1-2.o"
 	@echo "... Chapter1/Exercise1-2/Exercise1-2.i"
 	@echo "... Chapter1/Exercise1-2/Exercise1-2.s"
