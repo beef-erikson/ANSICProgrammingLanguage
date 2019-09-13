@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/beef/Desktop/CLionProjects/ANSICProgrammingLanguage/Chapter1/Exercise1-15/Exercise1-15.c
+stdio.h
+-
+

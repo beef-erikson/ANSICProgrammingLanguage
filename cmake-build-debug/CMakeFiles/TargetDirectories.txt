@@ -1,0 +1,3 @@
+/home/beef/Desktop/CLionProjects/ANSICProgrammingLanguage/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/beef/Desktop/CLionProjects/ANSICProgrammingLanguage/cmake-build-debug/CMakeFiles/ANSICProgrammingLanguage.dir
+/home/beef/Desktop/CLionProjects/ANSICProgrammingLanguage/cmake-build-debug/CMakeFiles/edit_cache.dir
