@@ -3,38 +3,44 @@
 //
 
 #include <stdio.h>
-#define MAXLEN  1000
+#define MAXLEN 1000
 
 // Write a program to remove trailing blanks and tabs from each line of input and delete entirely blank lines
-int main() {
+int main()
+{
     char buffer[MAXLEN];
-    int c, n = 0;
+    int n = 0;
+    char c = '\0';
+    int tabCount = 0;
 
-    while((c = getchar()) != EOF)
+    while ((c = getchar()) != EOF)
     {
-        if (n < MAXLEN) {
-            if (c == '\n') {
-                if (buffer[n] == ' ')
-                {
-                    // TODO figure out logic why this isn't working. tried many things. need sleep.
-                }
+        if (n < MAXLEN)
+        {
+            // Newline; print buffer
+            if (c == '\n')
+            {
                 buffer[n] = '\0';
                 printf("%s\n", buffer);
                 n = 0;
             }
+            // Tab; strip characters that are more than one tab
+            else if (c == '\t') {
+                tabCount++;
+                if (tabCount > 1)
+                    continue;
+                buffer[n++] = ' ';
+            }
+            // Everything else
             else {
-                if (c != '\t')
-                    buffer[n++] = c;
-                else {
-                    buffer[n++] = ' ';
-                    while ((c = getchar()) == '\t')
-                       ;
-                    buffer[n++] = c;
-                }
+                buffer[n++] = c;
+                tabCount = 0;
             }
         }
+
         // exceeds overflow - dump chars
-        else {
+        else
+        {
             putchar(c);
             if (c == '\n')
                 n = 0;

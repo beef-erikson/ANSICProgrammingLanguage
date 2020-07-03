@@ -19,3 +19,4 @@
 [Exercise 1-15: Made Functions for Fahrenheit/Celsius Conversions](https://github.com/beef-erikson/ANSICProgrammingLanguage/blob/master/Chapter1/Exercise1-15/Exercise1-15.c)<br />
 [Exercise 1-16: Prints Longest Input Line](https://github.com/beef-erikson/ANSICProgrammingLanguage/blob/master/Chapter1/Exercise1-16/Exercise1-16.c)<br />
 [Exercise 1-17: Prints Lines Longer Than 80 Characters](https://github.com/beef-erikson/ANSICProgrammingLanguage/blob/master/Chapter1/Exercise1-17/Exercise1-17.c)<br />
+[Exercise 1-18: Strips Trailing Spaces and Tabs From Input](https://github.com/beef-erikson/ANSICProgrammingLanguage/blob/master/Chapter1/Exercise1-17/Exercise1-18.c)<br />
