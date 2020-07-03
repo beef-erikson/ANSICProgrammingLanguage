@@ -58,23 +58,23 @@ include CMakeFiles\ANSICProgrammingLanguage.dir\progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles\ANSICProgrammingLanguage.dir\flags.make
 
-CMakeFiles\ANSICProgrammingLanguage.dir\Chapter1\Exercise1-1\Exercize1-1.c.obj: CMakeFiles\ANSICProgrammingLanguage.dir\flags.make
-CMakeFiles\ANSICProgrammingLanguage.dir\Chapter1\Exercise1-1\Exercize1-1.c.obj: ..\Chapter1\Exercise1-1\Exercize1-1.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\beef_\Desktop\NewRepos\C\ANSICProgrammingLanguage\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/ANSICProgrammingLanguage.dir/Chapter1/Exercise1-1/Exercize1-1.c.obj"
+CMakeFiles\ANSICProgrammingLanguage.dir\Chapter1\Exercise1-1\Exercise1-1.c.obj: CMakeFiles\ANSICProgrammingLanguage.dir\flags.make
+CMakeFiles\ANSICProgrammingLanguage.dir\Chapter1\Exercise1-1\Exercise1-1.c.obj: ..\Chapter1\Exercise1-1\Exercise1-1.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\beef_\Desktop\NewRepos\C\ANSICProgrammingLanguage\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/ANSICProgrammingLanguage.dir/Chapter1/Exercise1-1/Exercise1-1.c.obj"
 	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1426~1.288\bin\Hostx86\x86\cl.exe @<<
- /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\ANSICProgrammingLanguage.dir\Chapter1\Exercise1-1\Exercize1-1.c.obj /FdCMakeFiles\ANSICProgrammingLanguage.dir\ /FS -c C:\Users\beef_\Desktop\NewRepos\C\ANSICProgrammingLanguage\Chapter1\Exercise1-1\Exercize1-1.c
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\ANSICProgrammingLanguage.dir\Chapter1\Exercise1-1\Exercise1-1.c.obj /FdCMakeFiles\ANSICProgrammingLanguage.dir\ /FS -c C:\Users\beef_\Desktop\NewRepos\C\ANSICProgrammingLanguage\Chapter1\Exercise1-1\Exercise1-1.c
 <<
 
-CMakeFiles\ANSICProgrammingLanguage.dir\Chapter1\Exercise1-1\Exercize1-1.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ANSICProgrammingLanguage.dir/Chapter1/Exercise1-1/Exercize1-1.c.i"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1426~1.288\bin\Hostx86\x86\cl.exe > CMakeFiles\ANSICProgrammingLanguage.dir\Chapter1\Exercise1-1\Exercize1-1.c.i @<<
- /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\beef_\Desktop\NewRepos\C\ANSICProgrammingLanguage\Chapter1\Exercise1-1\Exercize1-1.c
+CMakeFiles\ANSICProgrammingLanguage.dir\Chapter1\Exercise1-1\Exercise1-1.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ANSICProgrammingLanguage.dir/Chapter1/Exercise1-1/Exercise1-1.c.i"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1426~1.288\bin\Hostx86\x86\cl.exe > CMakeFiles\ANSICProgrammingLanguage.dir\Chapter1\Exercise1-1\Exercise1-1.c.i @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\beef_\Desktop\NewRepos\C\ANSICProgrammingLanguage\Chapter1\Exercise1-1\Exercise1-1.c
 <<
 
-CMakeFiles\ANSICProgrammingLanguage.dir\Chapter1\Exercise1-1\Exercize1-1.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ANSICProgrammingLanguage.dir/Chapter1/Exercise1-1/Exercize1-1.c.s"
+CMakeFiles\ANSICProgrammingLanguage.dir\Chapter1\Exercise1-1\Exercise1-1.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ANSICProgrammingLanguage.dir/Chapter1/Exercise1-1/Exercise1-1.c.s"
 	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1426~1.288\bin\Hostx86\x86\cl.exe @<<
- /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\ANSICProgrammingLanguage.dir\Chapter1\Exercise1-1\Exercize1-1.c.s /c C:\Users\beef_\Desktop\NewRepos\C\ANSICProgrammingLanguage\Chapter1\Exercise1-1\Exercize1-1.c
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\ANSICProgrammingLanguage.dir\Chapter1\Exercise1-1\Exercise1-1.c.s /c C:\Users\beef_\Desktop\NewRepos\C\ANSICProgrammingLanguage\Chapter1\Exercise1-1\Exercise1-1.c
 <<
 
 CMakeFiles\ANSICProgrammingLanguage.dir\Chapter1\Exercise1-10\Exercise1-10.c.obj: CMakeFiles\ANSICProgrammingLanguage.dir\flags.make
@@ -381,28 +381,9 @@ CMakeFiles\ANSICProgrammingLanguage.dir\Chapter1\Exercise1-17\Exercise1-17.c.s: 
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\ANSICProgrammingLanguage.dir\Chapter1\Exercise1-17\Exercise1-17.c.s /c C:\Users\beef_\Desktop\NewRepos\C\ANSICProgrammingLanguage\Chapter1\Exercise1-17\Exercise1-17.c
 <<
 
-CMakeFiles\ANSICProgrammingLanguage.dir\Chapter1\Exercise1-18\Exercise1-18.c.obj: CMakeFiles\ANSICProgrammingLanguage.dir\flags.make
-CMakeFiles\ANSICProgrammingLanguage.dir\Chapter1\Exercise1-18\Exercise1-18.c.obj: ..\Chapter1\Exercise1-18\Exercise1-18.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\beef_\Desktop\NewRepos\C\ANSICProgrammingLanguage\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object CMakeFiles/ANSICProgrammingLanguage.dir/Chapter1/Exercise1-18/Exercise1-18.c.obj"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1426~1.288\bin\Hostx86\x86\cl.exe @<<
- /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\ANSICProgrammingLanguage.dir\Chapter1\Exercise1-18\Exercise1-18.c.obj /FdCMakeFiles\ANSICProgrammingLanguage.dir\ /FS -c C:\Users\beef_\Desktop\NewRepos\C\ANSICProgrammingLanguage\Chapter1\Exercise1-18\Exercise1-18.c
-<<
-
-CMakeFiles\ANSICProgrammingLanguage.dir\Chapter1\Exercise1-18\Exercise1-18.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ANSICProgrammingLanguage.dir/Chapter1/Exercise1-18/Exercise1-18.c.i"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1426~1.288\bin\Hostx86\x86\cl.exe > CMakeFiles\ANSICProgrammingLanguage.dir\Chapter1\Exercise1-18\Exercise1-18.c.i @<<
- /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\beef_\Desktop\NewRepos\C\ANSICProgrammingLanguage\Chapter1\Exercise1-18\Exercise1-18.c
-<<
-
-CMakeFiles\ANSICProgrammingLanguage.dir\Chapter1\Exercise1-18\Exercise1-18.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ANSICProgrammingLanguage.dir/Chapter1/Exercise1-18/Exercise1-18.c.s"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1426~1.288\bin\Hostx86\x86\cl.exe @<<
- /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\ANSICProgrammingLanguage.dir\Chapter1\Exercise1-18\Exercise1-18.c.s /c C:\Users\beef_\Desktop\NewRepos\C\ANSICProgrammingLanguage\Chapter1\Exercise1-18\Exercise1-18.c
-<<
-
 CMakeFiles\ANSICProgrammingLanguage.dir\Chapter1\Exercise1-19\Exercise1-19.c.obj: CMakeFiles\ANSICProgrammingLanguage.dir\flags.make
 CMakeFiles\ANSICProgrammingLanguage.dir\Chapter1\Exercise1-19\Exercise1-19.c.obj: ..\Chapter1\Exercise1-19\Exercise1-19.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\beef_\Desktop\NewRepos\C\ANSICProgrammingLanguage\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building C object CMakeFiles/ANSICProgrammingLanguage.dir/Chapter1/Exercise1-19/Exercise1-19.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\beef_\Desktop\NewRepos\C\ANSICProgrammingLanguage\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object CMakeFiles/ANSICProgrammingLanguage.dir/Chapter1/Exercise1-19/Exercise1-19.c.obj"
 	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1426~1.288\bin\Hostx86\x86\cl.exe @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\ANSICProgrammingLanguage.dir\Chapter1\Exercise1-19\Exercise1-19.c.obj /FdCMakeFiles\ANSICProgrammingLanguage.dir\ /FS -c C:\Users\beef_\Desktop\NewRepos\C\ANSICProgrammingLanguage\Chapter1\Exercise1-19\Exercise1-19.c
 <<
@@ -421,7 +402,7 @@ CMakeFiles\ANSICProgrammingLanguage.dir\Chapter1\Exercise1-19\Exercise1-19.c.s: 
 
 # Object files for target ANSICProgrammingLanguage
 ANSICProgrammingLanguage_OBJECTS = \
-"CMakeFiles\ANSICProgrammingLanguage.dir\Chapter1\Exercise1-1\Exercize1-1.c.obj" \
+"CMakeFiles\ANSICProgrammingLanguage.dir\Chapter1\Exercise1-1\Exercise1-1.c.obj" \
 "CMakeFiles\ANSICProgrammingLanguage.dir\Chapter1\Exercise1-10\Exercise1-10.c.obj" \
 "CMakeFiles\ANSICProgrammingLanguage.dir\Chapter1\Exercise1-11\Exercise1-11.c.obj" \
 "CMakeFiles\ANSICProgrammingLanguage.dir\Chapter1\Exercise1-12\Exercise1-12.c.obj" \
@@ -438,13 +419,12 @@ ANSICProgrammingLanguage_OBJECTS = \
 "CMakeFiles\ANSICProgrammingLanguage.dir\Chapter1\Exercise1-15\Exercise1-15.c.obj" \
 "CMakeFiles\ANSICProgrammingLanguage.dir\Chapter1\Exercise1-16\Exercise1-16.c.obj" \
 "CMakeFiles\ANSICProgrammingLanguage.dir\Chapter1\Exercise1-17\Exercise1-17.c.obj" \
-"CMakeFiles\ANSICProgrammingLanguage.dir\Chapter1\Exercise1-18\Exercise1-18.c.obj" \
 "CMakeFiles\ANSICProgrammingLanguage.dir\Chapter1\Exercise1-19\Exercise1-19.c.obj"
 
 # External object files for target ANSICProgrammingLanguage
 ANSICProgrammingLanguage_EXTERNAL_OBJECTS =
 
-ANSICProgrammingLanguage.exe: CMakeFiles\ANSICProgrammingLanguage.dir\Chapter1\Exercise1-1\Exercize1-1.c.obj
+ANSICProgrammingLanguage.exe: CMakeFiles\ANSICProgrammingLanguage.dir\Chapter1\Exercise1-1\Exercise1-1.c.obj
 ANSICProgrammingLanguage.exe: CMakeFiles\ANSICProgrammingLanguage.dir\Chapter1\Exercise1-10\Exercise1-10.c.obj
 ANSICProgrammingLanguage.exe: CMakeFiles\ANSICProgrammingLanguage.dir\Chapter1\Exercise1-11\Exercise1-11.c.obj
 ANSICProgrammingLanguage.exe: CMakeFiles\ANSICProgrammingLanguage.dir\Chapter1\Exercise1-12\Exercise1-12.c.obj
@@ -461,11 +441,10 @@ ANSICProgrammingLanguage.exe: CMakeFiles\ANSICProgrammingLanguage.dir\Chapter1\E
 ANSICProgrammingLanguage.exe: CMakeFiles\ANSICProgrammingLanguage.dir\Chapter1\Exercise1-15\Exercise1-15.c.obj
 ANSICProgrammingLanguage.exe: CMakeFiles\ANSICProgrammingLanguage.dir\Chapter1\Exercise1-16\Exercise1-16.c.obj
 ANSICProgrammingLanguage.exe: CMakeFiles\ANSICProgrammingLanguage.dir\Chapter1\Exercise1-17\Exercise1-17.c.obj
-ANSICProgrammingLanguage.exe: CMakeFiles\ANSICProgrammingLanguage.dir\Chapter1\Exercise1-18\Exercise1-18.c.obj
 ANSICProgrammingLanguage.exe: CMakeFiles\ANSICProgrammingLanguage.dir\Chapter1\Exercise1-19\Exercise1-19.c.obj
 ANSICProgrammingLanguage.exe: CMakeFiles\ANSICProgrammingLanguage.dir\build.make
 ANSICProgrammingLanguage.exe: CMakeFiles\ANSICProgrammingLanguage.dir\objects1.rsp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\beef_\Desktop\NewRepos\C\ANSICProgrammingLanguage\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Linking C executable ANSICProgrammingLanguage.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\beef_\Desktop\NewRepos\C\ANSICProgrammingLanguage\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Linking C executable ANSICProgrammingLanguage.exe"
 	C:\Users\beef_\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\201.7223.86\bin\cmake\win\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\ANSICProgrammingLanguage.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\mt.exe --manifests  -- C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1426~1.288\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\ANSICProgrammingLanguage.dir\objects1.rsp @<<
  /out:ANSICProgrammingLanguage.exe /implib:ANSICProgrammingLanguage.lib /pdb:C:\Users\beef_\Desktop\NewRepos\C\ANSICProgrammingLanguage\cmake-build-debug\ANSICProgrammingLanguage.pdb /version:0.0  /machine:X86 /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib 
 <<

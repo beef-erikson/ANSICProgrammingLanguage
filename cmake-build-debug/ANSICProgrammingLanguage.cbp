@@ -84,7 +84,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/beef_/Desktop/NewRepos/C/ANSICProgrammingLanguage/Chapter1/Exercise1-1/Exercize1-1.c">
+		<Unit filename="C:/Users/beef_/Desktop/NewRepos/C/ANSICProgrammingLanguage/Chapter1/Exercise1-1/Exercise1-1.c">
 			<Option target="ANSICProgrammingLanguage"/>
 		</Unit>
 		<Unit filename="C:/Users/beef_/Desktop/NewRepos/C/ANSICProgrammingLanguage/Chapter1/Exercise1-10/Exercise1-10.c">
@@ -109,9 +109,6 @@
 			<Option target="ANSICProgrammingLanguage"/>
 		</Unit>
 		<Unit filename="C:/Users/beef_/Desktop/NewRepos/C/ANSICProgrammingLanguage/Chapter1/Exercise1-17/Exercise1-17.c">
-			<Option target="ANSICProgrammingLanguage"/>
-		</Unit>
-		<Unit filename="C:/Users/beef_/Desktop/NewRepos/C/ANSICProgrammingLanguage/Chapter1/Exercise1-18/Exercise1-18.c">
 			<Option target="ANSICProgrammingLanguage"/>
 		</Unit>
 		<Unit filename="C:/Users/beef_/Desktop/NewRepos/C/ANSICProgrammingLanguage/Chapter1/Exercise1-19/Exercise1-19.c">

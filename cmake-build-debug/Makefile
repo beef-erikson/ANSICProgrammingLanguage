@@ -124,32 +124,32 @@ ANSICProgrammingLanguage\fast:
 	$(MAKE) -f CMakeFiles\ANSICProgrammingLanguage.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ANSICProgrammingLanguage.dir\build
 .PHONY : ANSICProgrammingLanguage\fast
 
-Chapter1\Exercise1-1\Exercize1-1.obj: Chapter1\Exercise1-1\Exercize1-1.c.obj
+Chapter1\Exercise1-1\Exercise1-1.obj: Chapter1\Exercise1-1\Exercise1-1.c.obj
 
-.PHONY : Chapter1\Exercise1-1\Exercize1-1.obj
+.PHONY : Chapter1\Exercise1-1\Exercise1-1.obj
 
 # target to build an object file
-Chapter1\Exercise1-1\Exercize1-1.c.obj:
-	$(MAKE) -f CMakeFiles\ANSICProgrammingLanguage.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ANSICProgrammingLanguage.dir\Chapter1\Exercise1-1\Exercize1-1.c.obj
-.PHONY : Chapter1\Exercise1-1\Exercize1-1.c.obj
+Chapter1\Exercise1-1\Exercise1-1.c.obj:
+	$(MAKE) -f CMakeFiles\ANSICProgrammingLanguage.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ANSICProgrammingLanguage.dir\Chapter1\Exercise1-1\Exercise1-1.c.obj
+.PHONY : Chapter1\Exercise1-1\Exercise1-1.c.obj
 
-Chapter1\Exercise1-1\Exercize1-1.i: Chapter1\Exercise1-1\Exercize1-1.c.i
+Chapter1\Exercise1-1\Exercise1-1.i: Chapter1\Exercise1-1\Exercise1-1.c.i
 
-.PHONY : Chapter1\Exercise1-1\Exercize1-1.i
+.PHONY : Chapter1\Exercise1-1\Exercise1-1.i
 
 # target to preprocess a source file
-Chapter1\Exercise1-1\Exercize1-1.c.i:
-	$(MAKE) -f CMakeFiles\ANSICProgrammingLanguage.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ANSICProgrammingLanguage.dir\Chapter1\Exercise1-1\Exercize1-1.c.i
-.PHONY : Chapter1\Exercise1-1\Exercize1-1.c.i
+Chapter1\Exercise1-1\Exercise1-1.c.i:
+	$(MAKE) -f CMakeFiles\ANSICProgrammingLanguage.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ANSICProgrammingLanguage.dir\Chapter1\Exercise1-1\Exercise1-1.c.i
+.PHONY : Chapter1\Exercise1-1\Exercise1-1.c.i
 
-Chapter1\Exercise1-1\Exercize1-1.s: Chapter1\Exercise1-1\Exercize1-1.c.s
+Chapter1\Exercise1-1\Exercise1-1.s: Chapter1\Exercise1-1\Exercise1-1.c.s
 
-.PHONY : Chapter1\Exercise1-1\Exercize1-1.s
+.PHONY : Chapter1\Exercise1-1\Exercise1-1.s
 
 # target to generate assembly for a file
-Chapter1\Exercise1-1\Exercize1-1.c.s:
-	$(MAKE) -f CMakeFiles\ANSICProgrammingLanguage.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ANSICProgrammingLanguage.dir\Chapter1\Exercise1-1\Exercize1-1.c.s
-.PHONY : Chapter1\Exercise1-1\Exercize1-1.c.s
+Chapter1\Exercise1-1\Exercise1-1.c.s:
+	$(MAKE) -f CMakeFiles\ANSICProgrammingLanguage.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ANSICProgrammingLanguage.dir\Chapter1\Exercise1-1\Exercise1-1.c.s
+.PHONY : Chapter1\Exercise1-1\Exercise1-1.c.s
 
 Chapter1\Exercise1-10\Exercise1-10.obj: Chapter1\Exercise1-10\Exercise1-10.c.obj
 
@@ -366,33 +366,6 @@ Chapter1\Exercise1-17\Exercise1-17.s: Chapter1\Exercise1-17\Exercise1-17.c.s
 Chapter1\Exercise1-17\Exercise1-17.c.s:
 	$(MAKE) -f CMakeFiles\ANSICProgrammingLanguage.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ANSICProgrammingLanguage.dir\Chapter1\Exercise1-17\Exercise1-17.c.s
 .PHONY : Chapter1\Exercise1-17\Exercise1-17.c.s
-
-Chapter1\Exercise1-18\Exercise1-18.obj: Chapter1\Exercise1-18\Exercise1-18.c.obj
-
-.PHONY : Chapter1\Exercise1-18\Exercise1-18.obj
-
-# target to build an object file
-Chapter1\Exercise1-18\Exercise1-18.c.obj:
-	$(MAKE) -f CMakeFiles\ANSICProgrammingLanguage.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ANSICProgrammingLanguage.dir\Chapter1\Exercise1-18\Exercise1-18.c.obj
-.PHONY : Chapter1\Exercise1-18\Exercise1-18.c.obj
-
-Chapter1\Exercise1-18\Exercise1-18.i: Chapter1\Exercise1-18\Exercise1-18.c.i
-
-.PHONY : Chapter1\Exercise1-18\Exercise1-18.i
-
-# target to preprocess a source file
-Chapter1\Exercise1-18\Exercise1-18.c.i:
-	$(MAKE) -f CMakeFiles\ANSICProgrammingLanguage.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ANSICProgrammingLanguage.dir\Chapter1\Exercise1-18\Exercise1-18.c.i
-.PHONY : Chapter1\Exercise1-18\Exercise1-18.c.i
-
-Chapter1\Exercise1-18\Exercise1-18.s: Chapter1\Exercise1-18\Exercise1-18.c.s
-
-.PHONY : Chapter1\Exercise1-18\Exercise1-18.s
-
-# target to generate assembly for a file
-Chapter1\Exercise1-18\Exercise1-18.c.s:
-	$(MAKE) -f CMakeFiles\ANSICProgrammingLanguage.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ANSICProgrammingLanguage.dir\Chapter1\Exercise1-18\Exercise1-18.c.s
-.PHONY : Chapter1\Exercise1-18\Exercise1-18.c.s
 
 Chapter1\Exercise1-19\Exercise1-19.obj: Chapter1\Exercise1-19\Exercise1-19.c.obj
 
@@ -646,9 +619,9 @@ help:
 	@echo ... ANSICProgrammingLanguage
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... Chapter1/Exercise1-1/Exercize1-1.obj
-	@echo ... Chapter1/Exercise1-1/Exercize1-1.i
-	@echo ... Chapter1/Exercise1-1/Exercize1-1.s
+	@echo ... Chapter1/Exercise1-1/Exercise1-1.obj
+	@echo ... Chapter1/Exercise1-1/Exercise1-1.i
+	@echo ... Chapter1/Exercise1-1/Exercise1-1.s
 	@echo ... Chapter1/Exercise1-10/Exercise1-10.obj
 	@echo ... Chapter1/Exercise1-10/Exercise1-10.i
 	@echo ... Chapter1/Exercise1-10/Exercise1-10.s
@@ -673,9 +646,6 @@ help:
 	@echo ... Chapter1/Exercise1-17/Exercise1-17.obj
 	@echo ... Chapter1/Exercise1-17/Exercise1-17.i
 	@echo ... Chapter1/Exercise1-17/Exercise1-17.s
-	@echo ... Chapter1/Exercise1-18/Exercise1-18.obj
-	@echo ... Chapter1/Exercise1-18/Exercise1-18.i
-	@echo ... Chapter1/Exercise1-18/Exercise1-18.s
 	@echo ... Chapter1/Exercise1-19/Exercise1-19.obj
 	@echo ... Chapter1/Exercise1-19/Exercise1-19.i
 	@echo ... Chapter1/Exercise1-19/Exercise1-19.s

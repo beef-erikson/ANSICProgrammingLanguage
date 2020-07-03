@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "C:/Users/beef_/Desktop/NewRepos/C/ANSICProgrammingLanguage/Chapter1/Exercise1-1/Exercize1-1.c" "C:/Users/beef_/Desktop/NewRepos/C/ANSICProgrammingLanguage/cmake-build-debug/CMakeFiles/ANSICProgrammingLanguage.dir/Chapter1/Exercise1-1/Exercize1-1.c.obj"
+  "C:/Users/beef_/Desktop/NewRepos/C/ANSICProgrammingLanguage/Chapter1/Exercise1-1/Exercise1-1.c" "C:/Users/beef_/Desktop/NewRepos/C/ANSICProgrammingLanguage/cmake-build-debug/CMakeFiles/ANSICProgrammingLanguage.dir/Chapter1/Exercise1-1/Exercise1-1.c.obj"
   "C:/Users/beef_/Desktop/NewRepos/C/ANSICProgrammingLanguage/Chapter1/Exercise1-10/Exercise1-10.c" "C:/Users/beef_/Desktop/NewRepos/C/ANSICProgrammingLanguage/cmake-build-debug/CMakeFiles/ANSICProgrammingLanguage.dir/Chapter1/Exercise1-10/Exercise1-10.c.obj"
   "C:/Users/beef_/Desktop/NewRepos/C/ANSICProgrammingLanguage/Chapter1/Exercise1-11/Exercise1-11.c" "C:/Users/beef_/Desktop/NewRepos/C/ANSICProgrammingLanguage/cmake-build-debug/CMakeFiles/ANSICProgrammingLanguage.dir/Chapter1/Exercise1-11/Exercise1-11.c.obj"
   "C:/Users/beef_/Desktop/NewRepos/C/ANSICProgrammingLanguage/Chapter1/Exercise1-12/Exercise1-12.c" "C:/Users/beef_/Desktop/NewRepos/C/ANSICProgrammingLanguage/cmake-build-debug/CMakeFiles/ANSICProgrammingLanguage.dir/Chapter1/Exercise1-12/Exercise1-12.c.obj"
@@ -13,7 +13,6 @@ set(CMAKE_DEPENDS_CHECK_C
   "C:/Users/beef_/Desktop/NewRepos/C/ANSICProgrammingLanguage/Chapter1/Exercise1-15/Exercise1-15.c" "C:/Users/beef_/Desktop/NewRepos/C/ANSICProgrammingLanguage/cmake-build-debug/CMakeFiles/ANSICProgrammingLanguage.dir/Chapter1/Exercise1-15/Exercise1-15.c.obj"
   "C:/Users/beef_/Desktop/NewRepos/C/ANSICProgrammingLanguage/Chapter1/Exercise1-16/Exercise1-16.c" "C:/Users/beef_/Desktop/NewRepos/C/ANSICProgrammingLanguage/cmake-build-debug/CMakeFiles/ANSICProgrammingLanguage.dir/Chapter1/Exercise1-16/Exercise1-16.c.obj"
   "C:/Users/beef_/Desktop/NewRepos/C/ANSICProgrammingLanguage/Chapter1/Exercise1-17/Exercise1-17.c" "C:/Users/beef_/Desktop/NewRepos/C/ANSICProgrammingLanguage/cmake-build-debug/CMakeFiles/ANSICProgrammingLanguage.dir/Chapter1/Exercise1-17/Exercise1-17.c.obj"
-  "C:/Users/beef_/Desktop/NewRepos/C/ANSICProgrammingLanguage/Chapter1/Exercise1-18/Exercise1-18.c" "C:/Users/beef_/Desktop/NewRepos/C/ANSICProgrammingLanguage/cmake-build-debug/CMakeFiles/ANSICProgrammingLanguage.dir/Chapter1/Exercise1-18/Exercise1-18.c.obj"
   "C:/Users/beef_/Desktop/NewRepos/C/ANSICProgrammingLanguage/Chapter1/Exercise1-19/Exercise1-19.c" "C:/Users/beef_/Desktop/NewRepos/C/ANSICProgrammingLanguage/cmake-build-debug/CMakeFiles/ANSICProgrammingLanguage.dir/Chapter1/Exercise1-19/Exercise1-19.c.obj"
   "C:/Users/beef_/Desktop/NewRepos/C/ANSICProgrammingLanguage/Chapter1/Exercise1-2/Exercise1-2.c" "C:/Users/beef_/Desktop/NewRepos/C/ANSICProgrammingLanguage/cmake-build-debug/CMakeFiles/ANSICProgrammingLanguage.dir/Chapter1/Exercise1-2/Exercise1-2.c.obj"
   "C:/Users/beef_/Desktop/NewRepos/C/ANSICProgrammingLanguage/Chapter1/Exercise1-3/Exercise1-3.c" "C:/Users/beef_/Desktop/NewRepos/C/ANSICProgrammingLanguage/cmake-build-debug/CMakeFiles/ANSICProgrammingLanguage.dir/Chapter1/Exercise1-3/Exercise1-3.c.obj"
