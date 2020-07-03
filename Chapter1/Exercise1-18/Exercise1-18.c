@@ -9,9 +9,7 @@
 int main()
 {
     char buffer[MAXLEN];
-    int n = 0;
-    char c = '\0';
-    int tabCount = 0;
+    int c, n = 0, tabCount = 0, spaceCount = 0;
 
     while ((c = getchar()) != EOF)
     {
@@ -31,10 +29,19 @@ int main()
                     continue;
                 buffer[n++] = ' ';
             }
+            // Space; strip any trailing spaces
+            else if (c == ' ')
+            {
+                spaceCount++;
+                if (spaceCount > 1)
+                    continue;
+                buffer[n++] = ' ';
+            }
             // Everything else
             else {
                 buffer[n++] = c;
                 tabCount = 0;
+                spaceCount = 0;
             }
         }
 
