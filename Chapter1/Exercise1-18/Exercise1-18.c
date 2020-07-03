@@ -1,11 +1,13 @@
 //
-// Created by beef on 9/13/19.
+// Beef Erikson Studios - 2020
+// Started on 9/13/19.
+// Finished on 7/3/20 (Jeez.)
 //
 
 #include <stdio.h>
 #define MAXLEN 1000
 
-// Write a program to remove trailing blanks and tabs from each line of input and delete entirely blank lines
+// Write a program to remove trailing blanks and tabs from each line of input.
 int main()
 {
     char buffer[MAXLEN];
@@ -45,7 +47,7 @@ int main()
             }
         }
 
-        // exceeds overflow - dump chars
+        // Exceeds overflow - dump chars
         else
         {
             putchar(c);
