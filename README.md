@@ -1,7 +1,9 @@
 # The ANSI C Programming Language
+
 ![ANSI C](https://images-na.ssl-images-amazon.com/images/I/41gHB8KelXL._SX377_BO1,204,203,200_.jpg)
 
 ## Chapter 1 - Variables and Arithmetic Expressions
+
 [Exercise 1-1: Hello World](https://github.com/beef-erikson/ANSICProgrammingLanguage/blob/master/Chapter1/Exercise1-1/Exercize1-1.c)<br />
 [Exercise 1-2: Hello World Part 2](https://github.com/beef-erikson/ANSICProgrammingLanguage/blob/master/Chapter1/Exercise1-2/Exercise1-2.c)<br />
 [Exercise 1-3: Fahrenheit to Celcius Converter](https://github.com/beef-erikson/ANSICProgrammingLanguage/blob/master/Chapter1/Exercise1-3/Exercize1-3.c)<br />
@@ -20,3 +22,4 @@
 [Exercise 1-16: Prints Longest Input Line](https://github.com/beef-erikson/ANSICProgrammingLanguage/blob/master/Chapter1/Exercise1-16/Exercise1-16.c)<br />
 [Exercise 1-17: Prints Lines Longer Than 80 Characters](https://github.com/beef-erikson/ANSICProgrammingLanguage/blob/master/Chapter1/Exercise1-17/Exercise1-17.c)<br />
 [Exercise 1-18: Strips Trailing Spaces and Tabs From Input](https://github.com/beef-erikson/ANSICProgrammingLanguage/blob/master/Chapter1/Exercise1-18/Exercise1-18.c)<br />
+[Exercise 1-19: Reverse String From Input Via Function](https://github.com/beef-erikson/ANSICProgrammingLanguage/blob/master/Chapter1/Exercise1-19/Exercise1-19.c)<br />
