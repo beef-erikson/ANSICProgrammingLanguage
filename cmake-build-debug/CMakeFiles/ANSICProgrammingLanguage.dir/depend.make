@@ -21,9 +21,11 @@ CMakeFiles\ANSICProgrammingLanguage.dir\Chapter1\Exercise1-17\Exercise1-17.c.obj
 
 CMakeFiles\ANSICProgrammingLanguage.dir\Chapter1\Exercise1-18\Exercise1-18.c.obj: ..\Chapter1\Exercise1-18\Exercise1-18.c
 
+CMakeFiles\ANSICProgrammingLanguage.dir\Chapter1\Exercise1-19\Exercise1-19.c.obj: ..\Chapter1\Exercise1-19\Exercise1-19.c
+
 CMakeFiles\ANSICProgrammingLanguage.dir\Chapter1\Exercise1-2\Exercise1-2.c.obj: ..\Chapter1\Exercise1-2\Exercise1-2.c
 
-CMakeFiles\ANSICProgrammingLanguage.dir\Chapter1\Exercise1-3\Exercize1-3.c.obj: ..\Chapter1\Exercise1-3\Exercize1-3.c
+CMakeFiles\ANSICProgrammingLanguage.dir\Chapter1\Exercise1-3\Exercise1-3.c.obj: ..\Chapter1\Exercise1-3\Exercise1-3.c
 
 CMakeFiles\ANSICProgrammingLanguage.dir\Chapter1\Exercise1-4\Exercise1-4.c.obj: ..\Chapter1\Exercise1-4\Exercise1-4.c
 
