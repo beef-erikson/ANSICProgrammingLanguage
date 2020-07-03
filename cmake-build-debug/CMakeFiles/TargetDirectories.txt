@@ -1,3 +1,0 @@
-C:/Users/beef_/Desktop/NewRepos/C/ANSICProgrammingLanguage/cmake-build-debug/CMakeFiles/ANSICProgrammingLanguage.dir
-C:/Users/beef_/Desktop/NewRepos/C/ANSICProgrammingLanguage/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/beef_/Desktop/NewRepos/C/ANSICProgrammingLanguage/cmake-build-debug/CMakeFiles/rebuild_cache.dir

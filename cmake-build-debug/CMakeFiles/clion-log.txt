@@ -1,4 +1,0 @@
-C:\Users\beef_\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\201.7223.86\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - NMake Makefiles" C:\Users\beef_\Desktop\NewRepos\C\ANSICProgrammingLanguage
--- Configuring done
--- Generating done
--- Build files have been written to: C:/Users/beef_/Desktop/NewRepos/C/ANSICProgrammingLanguage/cmake-build-debug
