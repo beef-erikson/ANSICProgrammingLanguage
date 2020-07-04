@@ -23,3 +23,4 @@
 [Exercise 1-17: Prints Lines Longer Than 80 Characters](https://github.com/beef-erikson/ANSICProgrammingLanguage/blob/master/Chapter1/Exercise1-17/Exercise1-17.c)<br />
 [Exercise 1-18: Strips Trailing Spaces and Tabs From Input](https://github.com/beef-erikson/ANSICProgrammingLanguage/blob/master/Chapter1/Exercise1-18/Exercise1-18.c)<br />
 [Exercise 1-19: Reverse String From Input Via Function](https://github.com/beef-erikson/ANSICProgrammingLanguage/blob/master/Chapter1/Exercise1-19/Exercise1-19.c)<br />
+[Exercise 1-20: Replacing Tabs With Specified Number of Spaces](https://github.com/beef-erikson/ANSICProgrammingLanguage/blob/master/Chapter1/Exercise1-20/Exercise1-20.c)
